@@ -23,7 +23,7 @@
       <file leaf-file-name="basic.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/basic/basic.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="52" column="10" selection-start="1271" selection-end="1271" vertical-scroll-proportion="-32.076923">
+            <state line="52" column="10" selection-start="1271" selection-end="1271" vertical-scroll-proportion="-0.65384614">
               <folding />
             </state>
           </provider>
@@ -42,9 +42,7 @@
         <entry file="file://$PROJECT_DIR$/pages/professionisti-gian-angelo-geminiani/model.json">
           <provider selected="true" editor-type-id="text-editor">
             <state line="335" column="89" selection-start="10399" selection-end="10399" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#1311#5626#0" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -68,10 +66,8 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/professionisti-gian-angelo-geminiani/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="32" selection-start="720" selection-end="720" vertical-scroll-proportion="-13.076923">
-              <folding>
-                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state line="20" column="32" selection-start="720" selection-end="720" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -88,7 +84,7 @@
       <file leaf-file-name="model_en.json" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pages/professionisti-gian-angelo-geminiani/model_en.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="28" selection-start="366" selection-end="366" vertical-scroll-proportion="0.2508513">
+            <state line="13" column="28" selection-start="366" selection-end="366" vertical-scroll-proportion="0.25667828">
               <folding />
             </state>
           </provider>
@@ -134,7 +130,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="61" />
-    <option name="width" value="1431" />
+    <option name="width" value="998" />
     <option name="height" value="1080" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -273,8 +269,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="preferences.lookFeel" />
     <property name="FullScreen" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -330,13 +326,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="61" y="0" width="1431" height="1080" extended-state="0" />
+    <frame x="61" y="0" width="998" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35416666" sideWeight="0.9976443" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3826903" sideWeight="0.9976443" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -406,20 +402,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/templates/basic/basic.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="29" selection-start="448" selection-end="448" vertical-scroll-proportion="0.0">
-          <folding>
-            <marker date="1362395437010" expanded="false" signature="2380:2432" placeholder="..." />
-            <marker date="1362395437010" expanded="false" signature="2524:2554" placeholder="..." />
-            <marker date="1362395437010" expanded="false" signature="4254:4267" placeholder="..." />
-            <marker date="1362395437010" expanded="true" signature="5018:5064" placeholder="..." />
-            <marker date="1362395437010" expanded="false" signature="6449:6462" placeholder="..." />
-            <marker date="1362395437010" expanded="true" signature="8326:8339" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/basic/basic.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="1" selection-start="37" selection-end="37" vertical-scroll-proportion="0.0">
@@ -461,7 +443,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/basic/basic.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="10" selection-start="1271" selection-end="1271" vertical-scroll-proportion="-32.076923">
+        <state line="52" column="10" selection-start="1271" selection-end="1271" vertical-scroll-proportion="-0.65384614">
           <folding />
         </state>
       </provider>
@@ -469,9 +451,7 @@
     <entry file="file://$PROJECT_DIR$/pages/professionisti-gian-angelo-geminiani/model.json">
       <provider selected="true" editor-type-id="text-editor">
         <state line="335" column="89" selection-start="10399" selection-end="10399" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#1311#5626#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -491,9 +471,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/app.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="30" selection-end="30" vertical-scroll-proportion="0.07606264">
-          <folding />
-        </state>
+        <state line="4" column="0" selection-start="30" selection-end="30" vertical-scroll-proportion="0.07606264" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/basic/basic.css">
@@ -505,10 +483,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/professionisti-gian-angelo-geminiani/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="32" selection-start="720" selection-end="720" vertical-scroll-proportion="-13.076923">
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state line="20" column="32" selection-start="720" selection-end="720" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
@@ -519,9 +495,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pages/professionisti-gian-angelo-geminiani/model_en.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="28" selection-start="366" selection-end="366" vertical-scroll-proportion="0.2508513">
+        <state line="13" column="28" selection-start="366" selection-end="366" vertical-scroll-proportion="0.25667828">
           <folding />
         </state>
       </provider>
