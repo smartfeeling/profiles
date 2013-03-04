@@ -1,0 +1,9 @@
+.loading {
+    position: fixed;
+    left: 50%;
+    top: 35%;
+    background: transparent url("../img/ajax-loader.gif");
+    z-index: 1000;
+    height: 48px;
+    width: 48px;
+}

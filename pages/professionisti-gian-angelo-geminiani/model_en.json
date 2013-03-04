@@ -1,0 +1,392 @@
+{
+    "id":"professionisti-gian-angelo-geminiani",
+    "title":"Gian Angelo Geminiani",
+    "subtitle":"&lt;Developer/&gt;",
+    "name":"Gian Angelo",
+    "surname":"Geminiani",
+    "birthday":"21 gen 1968",
+    "address":"",
+    "cell":"+393477857785",
+    "tel":"",
+    "org":"",
+    "email":"angelo.geminiani@gmail.com",
+    "map":"",
+    "excerpt_title":"Excerpt",
+    "excerpt":"Developer, UX Designer e Sociologist. Expert in Mobile, Web and Social Media.",
+    "image":"img/me-photo.png",
+    "interests_title":"Hobbies",
+    "contacts_title":"Per Contattarmi",
+    "contacts":[
+        {
+            "name":"Email",
+            "description":"Clicca su questo box per mandarmi una email.",
+            "url":"mailto:angelo.geminiani@gmail.com",
+            "image":"../../assets/lib/metroui/images/mail.png"
+        },
+        {
+            "name":"Telefono",
+            "description":"Clicca su questo box per chiamarmi.",
+            "url":"tel:+393477857785",
+            "image":"../../assets/lib/metroui/images/phone.png"
+        }
+    ],
+    "interests":[
+
+    ],
+    "causes_title":"Cause.",
+    "causes":[
+        {
+            "name":"Creative Commons",
+            "description":"",
+            "url":"",
+            "image":""
+        }
+    ],
+    "skills_title":" Tecnica.",
+    "skills":[
+        {
+            "group":"Specializzazioni",
+            "name":"Social Media",
+            "description":"",
+            "url":"",
+            "image":"",
+            "value":10
+        },
+        {
+            "group":"Specializzazioni",
+            "name":"Gamification",
+            "description":"",
+            "url":"",
+            "image":"",
+            "value":10
+        },
+        {
+            "group":"Specializzazioni",
+            "name":"Community Management",
+            "description":"",
+            "url":"",
+            "image":"",
+            "value":9
+        },
+        {
+            "group":"Specializzazioni",
+            "name":"Blog Aziendali",
+            "description":"",
+            "url":"",
+            "image":"",
+            "value":10
+        },
+        {
+            "group":"Specializzazioni",
+            "name":"User Experience",
+            "description":"",
+            "url":"",
+            "image":"",
+            "value":9
+        },
+        {
+            "group":"Specializzazioni",
+            "name":"Configuratori di Prodotto",
+            "description":"",
+            "url":"",
+            "image":"",
+            "value":9
+        },
+        {
+            "group":"Piattaforme Mobile",
+            "name":"iOs",
+            "description":"",
+            "url":"",
+            "image":"",
+            "value":9
+        },
+        {
+            "group":"Piattaforme Mobile",
+            "name":"Android",
+            "description":"",
+            "url":"",
+            "image":"",
+            "value":9
+        },
+        {
+            "group":"Piattaforme Desktop",
+            "name":"Windows",
+            "description":"",
+            "url":"",
+            "image":"",
+            "value":10
+        },
+        {
+            "group":"Piattaforme Desktop",
+            "name":"Mac",
+            "description":"",
+            "url":"",
+            "image":"",
+            "value":9
+        },
+        {
+            "group":"Piattaforme Desktop",
+            "name":"Linux",
+            "description":"",
+            "url":"",
+            "image":"",
+            "value":9
+        },
+        {
+            "group":"Linguaggi",
+            "name":"Java",
+            "description":"",
+            "url":"",
+            "image":"",
+            "value":10
+        },
+        {
+            "group":"Linguaggi",
+            "name":"Delphi",
+            "description":"",
+            "url":"",
+            "image":"",
+            "value":7
+        },
+        {
+            "group":"Linguaggi",
+            "name":"C++",
+            "description":"",
+            "url":"",
+            "image":"",
+            "value":7
+        },
+        {
+            "group":"Linguaggi",
+            "name":"Objective-C",
+            "description":"",
+            "url":"",
+            "image":"",
+            "value":7
+        },
+        {
+            "group":"Linguaggi",
+            "name":"Javascript",
+            "description":"",
+            "url":"",
+            "image":"",
+            "value":8
+        },
+        {
+            "group":"Linguaggi",
+            "name":"HTML",
+            "description":"",
+            "url":"",
+            "image":"",
+            "value":8
+        },
+        {
+            "group":"Linguaggi",
+            "name":"CSS",
+            "description":"",
+            "url":"",
+            "image":"",
+            "value":6
+        },
+        {
+            "group":"Database",
+            "name":"Mongo DB",
+            "description":"",
+            "url":"",
+            "image":"",
+            "value":9
+        },
+        {
+            "group":"Database",
+            "name":"MySQL",
+            "description":"",
+            "url":"",
+            "image":"",
+            "value":7
+        },
+        {
+            "group":"Database",
+            "name":"MSSQL",
+            "description":"",
+            "url":"",
+            "image":"",
+            "value":7
+        },
+        {
+            "group":"Database",
+            "name":"JavaDB",
+            "description":"",
+            "url":"",
+            "image":"",
+            "value":7
+        },
+        {
+            "group":"Database",
+            "name":"SQLite",
+            "description":"",
+            "url":"",
+            "image":"",
+            "value":7
+        }
+    ],
+    "portfolio_title":" Progetti.",
+    "portfolio":[
+        {
+            "group":"Progetti Enterprise",
+            "name":"B2B Fornitori",
+            "description":"Accesso B2B per fornitori. Funzionalità: Carico Bolle, Fatture, Listini, Gestione Conferme Ordine",
+            "url":"http://www.slideshare.net/angelo.geminiani/app-fornitori",
+            "image":"img/portfolio/fornitori.png"
+        },
+        {
+            "group":"Progetti Enterprise",
+            "name":"B2B Rivenditori",
+            "description":"Portale per rivenditori. Funzionalità: Emissione preventivi con configuratore di prodotto, Inserimento Ordini",
+            "url":"http://b2b.fontanot.it/index.vhtml",
+            "image":"img/portfolio/b2b.png"
+        },
+        {
+            "group":"Progetti Enterprise",
+            "name":"Extranet Rivenditori",
+            "description":"Portale per Agenti e Rivenditori. Funzionalità: Emissione preventivi, Visione insoluti, Avanzamento Ordini, Messaggistica, ecc..",
+            "url":"http://spacesserver.fontanot.it/fontanotspaces/FontanotWeb.html",
+            "image":"img/portfolio/extranet.png"
+        },
+        {
+            "group":"Progetti Enterprise",
+            "name":"Automazione Industriale",
+            "description":"Implementazione Hardware e Software per un magazzino di picking guidato da segnali luminosi.",
+            "url":"",
+            "image":"img/portfolio/picking.jpg"
+        },
+        {
+            "group":"Progetti Enterprise",
+            "name":"Schedulatore e sistema di Avanzamento Bolle",
+            "description":"Implementazione Software di schedulatore per la produzione.",
+            "url":"",
+            "image":"img/portfolio/schedulatore.jpg"
+        },
+        {
+            "group":"Progetti Enterprise",
+            "name":"Data Collection per Muletti",
+            "description":"Implementazione Software di Data Collection integrato a muletti",
+            "url":"",
+            "image":"img/portfolio/datacollection.jpg"
+        },
+        {
+            "group":"Progetti Enterprise",
+            "name":"Configuratore Porte e Finestre",
+            "description":"Configuratore per Porte e Finestre",
+            "url":"http://www.youtube.com/watch?v=LDR1ufR3gaY&feature=youtu.be",
+            "image":"img/portfolio/windoor.png"
+        },
+        {
+            "group":"Gaming",
+            "name":"Kyubu Memory",
+            "description":"Gioco 3D stile Memory",
+            "url":"https://play.google.com/store/apps/details?id=com.Sphinner.KyubuMemo&feature=search_result#?t=W251bGwsMSwyLDEsImNvbS5TcGhpbm5lci5LeXVidU1lbW8iXQ..",
+            "image":"img/portfolio/kyubu.png"
+        },
+        {
+            "group":"Blogs",
+            "name":"Smartfeeling 2.0",
+            "description":"Blog personale su Social Media e User Experience",
+            "url":"http://www.smartfeeling.org/blog/",
+            "image":"img/portfolio/smartfeeling.png"
+        },
+        {
+            "group":"Blogs",
+            "name":"Configuratori",
+            "description":"Blog personale sui Configuratori di Prodotto",
+            "url":"http://www.smartfeeling.org/blog/",
+            "image":"img/portfolio/configuratori.png"
+        },
+        {
+            "group":"Open Source",
+            "name":"Smartly",
+            "description":"Java Framework Modulare per lo sviluppo di Soluzioni Desktop o Web.",
+            "url":"https://github.com/smartfeeling/smartly",
+            "image":"img/portfolio/smartly.png"
+        },
+        {
+            "group":"Open Source",
+            "name":"DesktopGap",
+            "description":"Desktop Javascript SDK per sviluppare e distribuire applicazioni scritte in javascript e HTML5",
+            "url":"http://www.smartfeeling.org/desktopgap/",
+            "image":"img/portfolio/desktopgap.png"
+        },
+        {
+            "group":"Open Source",
+            "name":"SmartQR",
+            "description":"Servizio di routing e redirect per QR-Code sviluppato su piattaforma Node.js.",
+            "url":"http://www.smartfeeling.org/smartqr/",
+            "image":"img/portfolio/smartqr.png"
+        },
+        {
+            "group":"Open Source",
+            "name":"TwitterActive Banners",
+            "description":"Progetto sperimentale su piattaforma Node.js ed Arduino. Sono display LCD collegati a Twitter.",
+            "url":"http://www.slideshare.net/angelo.geminiani/display-twitterattivi",
+            "image":"img/portfolio/twitteractivebanner.png"
+        },
+        {
+            "group":"Open Source",
+            "name":"Open Window",
+            "description":"Configuratore per infissi, porte, persiane e cancelli",
+            "url":"http://www.sphinner.com/2012/12/18/un-configuratore-infissi-mille-app/",
+            "image":"img/portfolio/openwindow.png"
+        },
+        {
+            "group":"StartUp",
+            "name":"EYWA",
+            "description":"Specchio con Realtà Aumentata e sistema di Social Shopping.",
+            "url":"http://www.smartfeeling.org/eywa/",
+            "image":"img/portfolio/eywa.png"
+        },
+        {
+            "group":"StartUp",
+            "name":"QuickPin",
+            "description":"Sistema di social tagging e social bookmarking basato su codici telefonici.",
+            "url":"http://www.slideshare.net/angelo.geminiani/turismo-aumentato",
+            "image":"img/portfolio/quickpin.png"
+        }
+    ],
+    "links_title":"Links",
+    "links":[
+        {
+            "group":"Curriculum",
+            "name":"LinkedIn",
+            "description":"Sul profilo LinkedIn troverai il mio curriculum completo.",
+            "url":"http://www.linkedin.com/in/angelogeminiani",
+            "image":"../../assets/img/social/linkedin.png"
+        },
+        {
+            "group":"Curriculum",
+            "name":"Il mio Sito Personale",
+            "description":"Il mio sito personale raccoglie i principali progetti Open Source ed i miei blog.",
+            "url":"http://www.smartfeeling.org",
+            "image":"../../assets/img/social/wordpress.png"
+        },
+        {
+            "group":"Social",
+            "name":"Twitter",
+            "description":"I miei Tweet non sono molti, ma ne capitano alcuni interessanti",
+            "url":"https://twitter.com/angelogeminiani",
+            "image":"../../assets/img/social/twitter.png"
+        },
+        {
+            "group":"Social",
+            "name":"Facebook",
+            "description":"Il mio diario Facebook.",
+            "url":"http://www.facebook.com/angelo.geminiani",
+            "image":"../../assets/img/social/facebook.png"
+        },
+        {
+            "group":"Social",
+            "name":"Slideshare",
+            "description":"Il mio profilo SlideShare raccoglie alcune presentazioni su progetti che ho seguito.",
+            "url":"http://www.slideshare.net/angelo.geminiani/",
+            "image":"../../assets/img/social/slideshare.png"
+        }
+    ]
+}
