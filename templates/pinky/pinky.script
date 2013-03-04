@@ -1,0 +1,7 @@
+<script src="../../assets/lib/jqplot/jquery.jqplot.min.js"></script>
+<script src="../../assets/lib/jqplot/plugins/jqplot.pieRenderer.min.js"></script>
+<script src="../../assets/lib/jqplot/plugins/jqplot.donutRenderer.min.js"></script>
+
+<script src="../../assets/lib/metroui/javascript/accordion.js"></script>
+<script src="../../assets/lib/metroui/javascript/carousel.js"></script>
+

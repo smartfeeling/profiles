@@ -1,0 +1,26 @@
+body {
+    margin: 0!important;
+    padding: 0!important;
+}
+
+.title {
+    font-size: 2em !important;
+    height: 1em !important;
+    font-weight: bold;
+    color: #f3f3f3;
+}
+.subtitle {
+    font-size: 1em !important;
+    height: 2em !important;
+    font-weight: bold;
+    color: #f3f3f3;
+}
+
+.photo {
+    max-width: 100px;
+}
+
+.section {
+    margin: 0px 20px 0px 0px;
+}
+

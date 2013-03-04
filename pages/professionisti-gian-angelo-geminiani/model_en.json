@@ -15,17 +15,17 @@
     "excerpt":"Developer, UX Designer e Sociologist. Expert in Mobile, Web and Social Media.",
     "image":"img/me-photo.png",
     "interests_title":"Hobbies",
-    "contacts_title":"Per Contattarmi",
+    "contacts_title":"To Contact Me.",
     "contacts":[
         {
             "name":"Email",
-            "description":"Clicca su questo box per mandarmi una email.",
+            "description":"Click on this box to send me an email.",
             "url":"mailto:angelo.geminiani@gmail.com",
             "image":"../../assets/lib/metroui/images/mail.png"
         },
         {
-            "name":"Telefono",
-            "description":"Clicca su questo box per chiamarmi.",
+            "name":"Phone Call",
+            "description":"Click on this box to Call Me.",
             "url":"tel:+393477857785",
             "image":"../../assets/lib/metroui/images/phone.png"
         }
@@ -42,10 +42,10 @@
             "image":""
         }
     ],
-    "skills_title":" Tecnica.",
+    "skills_title":" Expertise.",
     "skills":[
         {
-            "group":"Specializzazioni",
+            "group":"Specialization",
             "name":"Social Media",
             "description":"",
             "url":"",
@@ -53,7 +53,7 @@
             "value":10
         },
         {
-            "group":"Specializzazioni",
+            "group":"Specialization",
             "name":"Gamification",
             "description":"",
             "url":"",
@@ -61,7 +61,7 @@
             "value":10
         },
         {
-            "group":"Specializzazioni",
+            "group":"Specialization",
             "name":"Community Management",
             "description":"",
             "url":"",
@@ -69,15 +69,15 @@
             "value":9
         },
         {
-            "group":"Specializzazioni",
-            "name":"Blog Aziendali",
+            "group":"Specialization",
+            "name":"Enterprise Blogs",
             "description":"",
             "url":"",
             "image":"",
             "value":10
         },
         {
-            "group":"Specializzazioni",
+            "group":"Specialization",
             "name":"User Experience",
             "description":"",
             "url":"",
@@ -85,15 +85,15 @@
             "value":9
         },
         {
-            "group":"Specializzazioni",
-            "name":"Configuratori di Prodotto",
+            "group":"Specialization",
+            "name":"Product's Configurator",
             "description":"",
             "url":"",
             "image":"",
             "value":9
         },
         {
-            "group":"Piattaforme Mobile",
+            "group":"Mobile Platforms",
             "name":"iOs",
             "description":"",
             "url":"",
@@ -101,7 +101,7 @@
             "value":9
         },
         {
-            "group":"Piattaforme Mobile",
+            "group":"Mobile Platforms",
             "name":"Android",
             "description":"",
             "url":"",
@@ -109,7 +109,7 @@
             "value":9
         },
         {
-            "group":"Piattaforme Desktop",
+            "group":"Desktop Platforms",
             "name":"Windows",
             "description":"",
             "url":"",
@@ -117,7 +117,7 @@
             "value":10
         },
         {
-            "group":"Piattaforme Desktop",
+            "group":"Desktop Platforms",
             "name":"Mac",
             "description":"",
             "url":"",
@@ -125,7 +125,7 @@
             "value":9
         },
         {
-            "group":"Piattaforme Desktop",
+            "group":"Desktop Platforms",
             "name":"Linux",
             "description":"",
             "url":"",
@@ -133,7 +133,7 @@
             "value":9
         },
         {
-            "group":"Linguaggi",
+            "group":"Programming Languages",
             "name":"Java",
             "description":"",
             "url":"",
@@ -141,7 +141,7 @@
             "value":10
         },
         {
-            "group":"Linguaggi",
+            "group":"Programming Languages",
             "name":"Delphi",
             "description":"",
             "url":"",
@@ -149,7 +149,7 @@
             "value":7
         },
         {
-            "group":"Linguaggi",
+            "group":"Programming Languages",
             "name":"C++",
             "description":"",
             "url":"",
@@ -157,7 +157,7 @@
             "value":7
         },
         {
-            "group":"Linguaggi",
+            "group":"Programming Languages",
             "name":"Objective-C",
             "description":"",
             "url":"",
@@ -165,7 +165,7 @@
             "value":7
         },
         {
-            "group":"Linguaggi",
+            "group":"Programming Languages",
             "name":"Javascript",
             "description":"",
             "url":"",
@@ -173,7 +173,7 @@
             "value":8
         },
         {
-            "group":"Linguaggi",
+            "group":"Programming Languages",
             "name":"HTML",
             "description":"",
             "url":"",
@@ -181,7 +181,7 @@
             "value":8
         },
         {
-            "group":"Linguaggi",
+            "group":"Programming Languages",
             "name":"CSS",
             "description":"",
             "url":"",
@@ -229,162 +229,169 @@
             "value":7
         }
     ],
-    "portfolio_title":" Progetti.",
+    "portfolio_title":" Portfolio.",
     "portfolio":[
         {
-            "group":"Progetti Enterprise",
-            "name":"B2B Fornitori",
-            "description":"Accesso B2B per fornitori. Funzionalità: Carico Bolle, Fatture, Listini, Gestione Conferme Ordine",
+            "group":"Enterprise Projects",
+            "name":"B2B - Suppliers",
+            "description":"B2B portal for supplier that can compile and download documents.",
             "url":"http://www.slideshare.net/angelo.geminiani/app-fornitori",
             "image":"img/portfolio/fornitori.png"
         },
         {
-            "group":"Progetti Enterprise",
-            "name":"B2B Rivenditori",
-            "description":"Portale per rivenditori. Funzionalità: Emissione preventivi con configuratore di prodotto, Inserimento Ordini",
+            "group":"Enterprise Projects",
+            "name":"B2B - Resellers",
+            "description":"B2B portal for resellers that can compile and download documents.",
             "url":"http://b2b.fontanot.it/index.vhtml",
             "image":"img/portfolio/b2b.png"
         },
         {
-            "group":"Progetti Enterprise",
-            "name":"Extranet Rivenditori",
-            "description":"Portale per Agenti e Rivenditori. Funzionalità: Emissione preventivi, Visione insoluti, Avanzamento Ordini, Messaggistica, ecc..",
+            "group":"Enterprise Projects",
+            "name":"B2B - Agents",
+            "description":"B2B portal for agents that can compile and download documents.",
             "url":"http://spacesserver.fontanot.it/fontanotspaces/FontanotWeb.html",
             "image":"img/portfolio/extranet.png"
         },
         {
-            "group":"Progetti Enterprise",
-            "name":"Automazione Industriale",
-            "description":"Implementazione Hardware e Software per un magazzino di picking guidato da segnali luminosi.",
+            "group":"Enterprise Projects",
+            "name":"Industrial Automation",
+            "description":"Hardware and Software implementation for automated warehouse.",
             "url":"",
             "image":"img/portfolio/picking.jpg"
         },
         {
-            "group":"Progetti Enterprise",
-            "name":"Schedulatore e sistema di Avanzamento Bolle",
-            "description":"Implementazione Software di schedulatore per la produzione.",
+            "group":"Enterprise Projects",
+            "name":"Production Scheduler",
+            "description":"Software implementation for a custom scheduler.",
             "url":"",
             "image":"img/portfolio/schedulatore.jpg"
         },
         {
-            "group":"Progetti Enterprise",
-            "name":"Data Collection per Muletti",
-            "description":"Implementazione Software di Data Collection integrato a muletti",
+            "group":"Enterprise Projects",
+            "name":"Forklift Data Collection",
+            "description":"Software implementation for a Data Collection Mobile solution.",
             "url":"",
             "image":"img/portfolio/datacollection.jpg"
         },
         {
-            "group":"Progetti Enterprise",
-            "name":"Configuratore Porte e Finestre",
-            "description":"Configuratore per Porte e Finestre",
+            "group":"Enterprise Projects",
+            "name":"Doors and Windows Configurator",
+            "description":"Configurator for Doors and Windows",
             "url":"http://www.youtube.com/watch?v=LDR1ufR3gaY&feature=youtu.be",
             "image":"img/portfolio/windoor.png"
         },
         {
             "group":"Gaming",
             "name":"Kyubu Memory",
-            "description":"Gioco 3D stile Memory",
+            "description":"Memory 3D game",
             "url":"https://play.google.com/store/apps/details?id=com.Sphinner.KyubuMemo&feature=search_result#?t=W251bGwsMSwyLDEsImNvbS5TcGhpbm5lci5LeXVidU1lbW8iXQ..",
             "image":"img/portfolio/kyubu.png"
         },
         {
             "group":"Blogs",
             "name":"Smartfeeling 2.0",
-            "description":"Blog personale su Social Media e User Experience",
+            "description":"Personal blog where I write about Social Media and User Experience.",
             "url":"http://www.smartfeeling.org/blog/",
             "image":"img/portfolio/smartfeeling.png"
         },
         {
             "group":"Blogs",
-            "name":"Configuratori",
-            "description":"Blog personale sui Configuratori di Prodotto",
+            "name":"Configurators",
+            "description":"Personal Blog where I write about Product Configurators",
             "url":"http://www.smartfeeling.org/blog/",
             "image":"img/portfolio/configuratori.png"
         },
         {
             "group":"Open Source",
             "name":"Smartly",
-            "description":"Java Framework Modulare per lo sviluppo di Soluzioni Desktop o Web.",
+            "description":"Modular Java Framework for Desktop and Web Applications.",
             "url":"https://github.com/smartfeeling/smartly",
             "image":"img/portfolio/smartly.png"
         },
         {
             "group":"Open Source",
             "name":"DesktopGap",
-            "description":"Desktop Javascript SDK per sviluppare e distribuire applicazioni scritte in javascript e HTML5",
+            "description":"Javascript SDK to develop and deploy HTML5 Desktop Applications",
             "url":"http://www.smartfeeling.org/desktopgap/",
             "image":"img/portfolio/desktopgap.png"
         },
         {
             "group":"Open Source",
             "name":"SmartQR",
-            "description":"Servizio di routing e redirect per QR-Code sviluppato su piattaforma Node.js.",
+            "description":"QR-Code links router written in Node.js",
             "url":"http://www.smartfeeling.org/smartqr/",
             "image":"img/portfolio/smartqr.png"
         },
         {
             "group":"Open Source",
             "name":"TwitterActive Banners",
-            "description":"Progetto sperimentale su piattaforma Node.js ed Arduino. Sono display LCD collegati a Twitter.",
+            "description":"Experiment with Arduino and Node.js. LCD banners connected to Twitter.",
             "url":"http://www.slideshare.net/angelo.geminiani/display-twitterattivi",
             "image":"img/portfolio/twitteractivebanner.png"
         },
         {
             "group":"Open Source",
             "name":"Open Window",
-            "description":"Configuratore per infissi, porte, persiane e cancelli",
+            "description":"Doors and Windows Configurator",
             "url":"http://www.sphinner.com/2012/12/18/un-configuratore-infissi-mille-app/",
             "image":"img/portfolio/openwindow.png"
         },
         {
+            "group":"Open Source",
+            "name":"Profiles",
+            "description":"No-database, localizable and customizable CMS to manage professional profiles.",
+            "url":"http://www.sphinner.com/2012/12/18/un-configuratore-infissi-mille-app/",
+            "image":"img/portfolio/profiles.png"
+        },
+        {
             "group":"StartUp",
             "name":"EYWA",
-            "description":"Specchio con Realtà Aumentata e sistema di Social Shopping.",
+            "description":"A.R. Mirror with connection to Social Media.",
             "url":"http://www.smartfeeling.org/eywa/",
             "image":"img/portfolio/eywa.png"
         },
         {
             "group":"StartUp",
             "name":"QuickPin",
-            "description":"Sistema di social tagging e social bookmarking basato su codici telefonici.",
+            "description":"Social Bookmarking platform using tags based on phone numbers.",
             "url":"http://www.slideshare.net/angelo.geminiani/turismo-aumentato",
             "image":"img/portfolio/quickpin.png"
         }
     ],
-    "links_title":"Links",
+    "links_title":"Links.",
     "links":[
         {
             "group":"Curriculum",
             "name":"LinkedIn",
-            "description":"Sul profilo LinkedIn troverai il mio curriculum completo.",
+            "description":"Look here for my complete professional profile.",
             "url":"http://www.linkedin.com/in/angelogeminiani",
             "image":"../../assets/img/social/linkedin.png"
         },
         {
             "group":"Curriculum",
-            "name":"Il mio Sito Personale",
-            "description":"Il mio sito personale raccoglie i principali progetti Open Source ed i miei blog.",
+            "name":"Personal Site",
+            "description":"Colelction of my Open Source Projects.",
             "url":"http://www.smartfeeling.org",
             "image":"../../assets/img/social/wordpress.png"
         },
         {
             "group":"Social",
             "name":"Twitter",
-            "description":"I miei Tweet non sono molti, ma ne capitano alcuni interessanti",
+            "description":"Few tweets, but some are interesting.",
             "url":"https://twitter.com/angelogeminiani",
             "image":"../../assets/img/social/twitter.png"
         },
         {
             "group":"Social",
             "name":"Facebook",
-            "description":"Il mio diario Facebook.",
+            "description":"My Facebook.",
             "url":"http://www.facebook.com/angelo.geminiani",
             "image":"../../assets/img/social/facebook.png"
         },
         {
             "group":"Social",
             "name":"Slideshare",
-            "description":"Il mio profilo SlideShare raccoglie alcune presentazioni su progetti che ho seguito.",
+            "description":"Slides and presentations.",
             "url":"http://www.slideshare.net/angelo.geminiani/",
             "image":"../../assets/img/social/slideshare.png"
         }
