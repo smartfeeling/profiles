@@ -1,6 +1,7 @@
 body {
     margin: 0!important;
     padding: 0!important;
+    background-color: #F4E6F7;
 }
 
 .title {
@@ -22,5 +23,18 @@ body {
 
 .section {
     margin: 0px 20px 0px 0px;
+}
+
+.accordion > li > a {
+    background-color: #f89406;
+}
+
+.accordion > li.active > a {
+    background-color: #df8505;
+    color: #FFFFCC;
+}
+
+.accordion > li > div {
+    background-color: #Fff6F7;
 }
 

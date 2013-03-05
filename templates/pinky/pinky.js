@@ -53,7 +53,7 @@
                     // console.log(data_array);
                     var ac_item = {
                         title:title,
-                        description:_createSkillItems(data_array),
+                        content:_createSkillItems(data_array),
                         selected: false // i === 0
                     };
                     ac_html += _createSkillAccordion(ac_item);
@@ -71,15 +71,15 @@
     function _createSkillAccordion(accordion) {
         var tpl = '<li ' + (accordion.selected ? 'class="active"' : '') + '> ' +
             '<a href="#">{title}</a> ' +
-            '<div>{description}</div>' +
+            '<div>{content}</div>' +
             '</li>';
         return ly.template(tpl, accordion);
     }
 
     function _createSkillItems(items) {
-        var tpl = '<div style="min-height: 50px;vertical-align: middle;width: 100%;">' +
-            '<span class="badge badge-info">{name}</span>' +
-            '<img style="float: right; max-height: 1em;" src="../../assets/img/stars/{stars}.png">' +
+        var tpl = '<div style="min-height: 50px;vertical-align: middle;width: 100%">' +
+            '<span>{!!name?name:description}</span>' +
+            '<img style="float: right; max-height: 1em;" src="../../assets/img/stars/{stars>0?stars:\'empty\'}.png">' +
             '</div>' +
             '<div ></div>';
         var html = '';
@@ -235,7 +235,7 @@
 
     function _createContactItems(items){
         var tpl = '<div id="{id}" data-item="{url}" class="notices">' +
-            '<div class="bg-color-orange">' +
+            '<div class="bg-color-yellow">' +
             '<div class="notice-icon"><img style="height: 32px;" src="{image}"/></div>' +
             '<div class="notice-image"><img class="photo" src="{image}"/></div>' +
             '<div class="notice-header fg-color-darken">{name}</div>' +

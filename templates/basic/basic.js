@@ -78,8 +78,8 @@
 
     function _createSkillItems(items) {
         var tpl = '<div style="min-height: 50px;vertical-align: middle;width: 100%;">' +
-            '<span class="badge badge-info">{name}</span>' +
-            '<img style="float: right; max-height: 1em;" src="../../assets/img/stars/{stars}.png">' +
+            '<span class="badge badge-info">{!!name?name:description}</span>' +
+            '<img style="float: right; max-height: 1em;" src="../../assets/img/stars/{stars>0?stars:\'empty\'}.png">' +
             '</div>' +
             '<div ></div>';
         var html = '';
