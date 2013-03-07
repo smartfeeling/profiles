@@ -1,0 +1,9 @@
+<!--
+
+    ADD HERE SCRIPTS TO INCLUDE IN YOUR TEMPLATE.
+    DO NOT ADD TO template.html PAGE, KEEP IT CLEAN.
+
+<script src="../../assets/lib/jqplot/jquery.jqplot.min.js"></script>
+<script src="../../assets/lib/jqplot/plugins/jqplot.pieRenderer.min.js"></script>
+
+-->

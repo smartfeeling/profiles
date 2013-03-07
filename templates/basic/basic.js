@@ -5,7 +5,7 @@
 
     function loaded(model, callback) {
 
-        console.log('Template Script');
+        // console.log('Template Script');
 
         _initSkills(model['skills']);
         _initPortfolio(model['portfolio']);
