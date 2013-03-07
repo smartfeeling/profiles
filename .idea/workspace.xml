@@ -7,7 +7,7 @@
     </list>
     <ignored path="profiles.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="229ab944-fc3a-4d1e-bf1e-58fd276307c5" time="1362671204289" ignored="false" />
+    <file path="/Dummy.txt" changelist="229ab944-fc3a-4d1e-bf1e-58fd276307c5" time="1362671571339" ignored="false" />
     <file path="/template.js" changelist="229ab944-fc3a-4d1e-bf1e-58fd276307c5" time="1362669288012" ignored="false" />
     <file path="/template.css" changelist="229ab944-fc3a-4d1e-bf1e-58fd276307c5" time="1362669414306" ignored="false" />
     <file path="/template.html" changelist="229ab944-fc3a-4d1e-bf1e-58fd276307c5" time="1362669764220" ignored="false" />
@@ -422,7 +422,11 @@
       <created>1362671207228</created>
       <updated>1362671207228</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="update">
+      <created>1362671575077</created>
+      <updated>1362671575077</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
