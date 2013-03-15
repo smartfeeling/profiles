@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="229ab944-fc3a-4d1e-bf1e-58fd276307c5" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="229ab944-fc3a-4d1e-bf1e-58fd276307c5" name="Default" comment="" />
     <ignored path="profiles.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="229ab944-fc3a-4d1e-bf1e-58fd276307c5" time="1363262841631" ignored="false" />
+    <file path="/Dummy.txt" changelist="229ab944-fc3a-4d1e-bf1e-58fd276307c5" time="1363368902292" ignored="false" />
     <file path="/template.js" changelist="229ab944-fc3a-4d1e-bf1e-58fd276307c5" time="1362669288012" ignored="false" />
     <file path="/template.css" changelist="229ab944-fc3a-4d1e-bf1e-58fd276307c5" time="1362669414306" ignored="false" />
     <file path="/template.html" changelist="229ab944-fc3a-4d1e-bf1e-58fd276307c5" time="1362669764220" ignored="false" />
@@ -81,7 +79,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="40" selection-start="54" selection-end="54" vertical-scroll-proportion="0.055658627">
+            <state line="2" column="40" selection-start="54" selection-end="54" vertical-scroll-proportion="0.055452865">
               <folding />
             </state>
           </provider>
@@ -127,7 +125,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="112" />
     <option name="y" value="91" />
-    <option name="width" value="984" />
+    <option name="width" value="1119" />
     <option name="height" value="893" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -156,6 +154,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -298,7 +297,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -306,8 +304,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="FullScreen" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -443,13 +441,13 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="112" y="91" width="984" height="893" extended-state="0" />
-    <editor active="true" />
+    <frame x="112" y="91" width="1119" height="893" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18887451" sideWeight="0.99791884" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1883871" sideWeight="0.99791884" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32934782" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.40894902" sideWeight="0.81112546" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.40875912" sideWeight="0.8116129" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -609,7 +607,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="40" selection-start="54" selection-end="54" vertical-scroll-proportion="0.055658627">
+        <state line="2" column="40" selection-start="54" selection-end="54" vertical-scroll-proportion="0.055452865">
           <folding />
         </state>
       </provider>
