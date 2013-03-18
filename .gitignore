@@ -163,4 +163,4 @@ pip-log.txt
 .DS_Store
 
 #IDE
-.idea
+/.idea/workspace.xml

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="229ab944-fc3a-4d1e-bf1e-58fd276307c5" name="Default" comment="">
+    <list default="true" id="229ab944-fc3a-4d1e-bf1e-58fd276307c5" name="Default" comment="update">
+      <change type="DELETED" beforePath="C:\Users\angelo.geminiani.ALBINIEFONTANOT\Dropbox\PROGETTI\SITES\profiles\.idea\workspace.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="profiles.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="229ab944-fc3a-4d1e-bf1e-58fd276307c5" time="1363596822633" ignored="false" />
+    <file path="/Dummy.txt" changelist="229ab944-fc3a-4d1e-bf1e-58fd276307c5" time="1363596939920" ignored="false" />
     <file path="/template.js" changelist="229ab944-fc3a-4d1e-bf1e-58fd276307c5" time="1362669288012" ignored="false" />
     <file path="/template.css" changelist="229ab944-fc3a-4d1e-bf1e-58fd276307c5" time="1362669414306" ignored="false" />
     <file path="/template.html" changelist="229ab944-fc3a-4d1e-bf1e-58fd276307c5" time="1362669764220" ignored="false" />
@@ -453,7 +453,11 @@
       <created>1363596837839</created>
       <updated>1363596837839</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="update">
+      <created>1363596922627</created>
+      <updated>1363596922627</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
