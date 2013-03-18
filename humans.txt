@@ -1,0 +1,8 @@
+/* Profiles was made by Gian Angelo Geminiani, an independent professional in Riccione, Italy */
+/* smartfeeling.org */
+/* humanstxt.org */
+
+/* SITE */
+  Standards: HTML5, CSS3
+  Components: jQuery, Underscore, ly
+  Software: Webstorm, Gimp, Git

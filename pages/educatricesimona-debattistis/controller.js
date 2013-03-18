@@ -3,7 +3,7 @@
     //-- load page --//
     app.Bootstrapper.load({
         callback: init,
-        template: "pinky",
+        template: "person/pinky",
         profile_id:"educatricesimona-debattistis"
     });
 

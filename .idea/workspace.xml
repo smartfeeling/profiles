@@ -1,10 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="229ab944-fc3a-4d1e-bf1e-58fd276307c5" name="Default" comment="" />
+    <list default="true" id="229ab944-fc3a-4d1e-bf1e-58fd276307c5" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/humans.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/robots.txt" />
+      <change type="MOVED" beforePath="C:\Users\angelo.geminiani.ALBINIEFONTANOT\Dropbox\PROGETTI\SITES\profiles\templates\basic\basic.css" afterPath="$PROJECT_DIR$/templates/person/basic/basic.css" />
+      <change type="MOVED" beforePath="C:\Users\angelo.geminiani.ALBINIEFONTANOT\Dropbox\PROGETTI\SITES\profiles\templates\basic\basic.html" afterPath="$PROJECT_DIR$/templates/person/basic/basic.html" />
+      <change type="MOVED" beforePath="C:\Users\angelo.geminiani.ALBINIEFONTANOT\Dropbox\PROGETTI\SITES\profiles\templates\basic\basic.js" afterPath="$PROJECT_DIR$/templates/person/basic/basic.js" />
+      <change type="MOVED" beforePath="C:\Users\angelo.geminiani.ALBINIEFONTANOT\Dropbox\PROGETTI\SITES\profiles\templates\basic\basic.link" afterPath="$PROJECT_DIR$/templates/person/basic/basic.link" />
+      <change type="MOVED" beforePath="C:\Users\angelo.geminiani.ALBINIEFONTANOT\Dropbox\PROGETTI\SITES\profiles\templates\basic\basic.script" afterPath="$PROJECT_DIR$/templates/person/basic/basic.script" />
+      <change type="MOVED" beforePath="C:\Users\angelo.geminiani.ALBINIEFONTANOT\Dropbox\PROGETTI\SITES\profiles\templates\pinky\pinky.css" afterPath="$PROJECT_DIR$/templates/person/pinky/pinky.css" />
+      <change type="MOVED" beforePath="C:\Users\angelo.geminiani.ALBINIEFONTANOT\Dropbox\PROGETTI\SITES\profiles\templates\pinky\pinky.html" afterPath="$PROJECT_DIR$/templates/person/pinky/pinky.html" />
+      <change type="MOVED" beforePath="C:\Users\angelo.geminiani.ALBINIEFONTANOT\Dropbox\PROGETTI\SITES\profiles\templates\pinky\pinky.js" afterPath="$PROJECT_DIR$/templates/person/pinky/pinky.js" />
+      <change type="MOVED" beforePath="C:\Users\angelo.geminiani.ALBINIEFONTANOT\Dropbox\PROGETTI\SITES\profiles\templates\pinky\pinky.link" afterPath="$PROJECT_DIR$/templates/person/pinky/pinky.link" />
+      <change type="MOVED" beforePath="C:\Users\angelo.geminiani.ALBINIEFONTANOT\Dropbox\PROGETTI\SITES\profiles\templates\pinky\pinky.script" afterPath="$PROJECT_DIR$/templates/person/pinky/pinky.script" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrapper.js" afterPath="$PROJECT_DIR$/bootstrapper.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/educatricesimona-debattistis/controller.js" afterPath="$PROJECT_DIR$/pages/educatricesimona-debattistis/controller.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/professionisti-gian-angelo-geminiani/controller.js" afterPath="$PROJECT_DIR$/pages/professionisti-gian-angelo-geminiani/controller.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="profiles.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="229ab944-fc3a-4d1e-bf1e-58fd276307c5" time="1363368902292" ignored="false" />
+    <file path="/Dummy.txt" changelist="229ab944-fc3a-4d1e-bf1e-58fd276307c5" time="1363593788538" ignored="false" />
     <file path="/template.js" changelist="229ab944-fc3a-4d1e-bf1e-58fd276307c5" time="1362669288012" ignored="false" />
     <file path="/template.css" changelist="229ab944-fc3a-4d1e-bf1e-58fd276307c5" time="1362669414306" ignored="false" />
     <file path="/template.html" changelist="229ab944-fc3a-4d1e-bf1e-58fd276307c5" time="1362669764220" ignored="false" />
@@ -12,6 +29,8 @@
     <file path="/template.script" changelist="229ab944-fc3a-4d1e-bf1e-58fd276307c5" time="1362669711987" ignored="false" />
     <file path="/index.html" changelist="229ab944-fc3a-4d1e-bf1e-58fd276307c5" time="1362732451147" ignored="false" />
     <file path="/README.md" changelist="229ab944-fc3a-4d1e-bf1e-58fd276307c5" time="1362732618455" ignored="false" />
+    <file path="/bootstrapper.js" changelist="229ab944-fc3a-4d1e-bf1e-58fd276307c5" time="1363595660854" ignored="false" />
+    <file path="/humans.txt" changelist="229ab944-fc3a-4d1e-bf1e-58fd276307c5" time="1363596803357" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,15 +50,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="model_en.json" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/professionisti-gian-angelo-geminiani/model_en.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="344" column="9" selection-start="10188" selection-end="10524" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="readme.txt" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/_stub/readme.txt">
           <provider selected="true" editor-type-id="text-editor">
@@ -50,7 +60,7 @@
         </entry>
       </file>
       <file leaf-file-name="basic.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/basic/basic.css">
+        <entry file="file://$PROJECT_DIR$/templates/person/basic/basic.css">
           <provider selected="true" editor-type-id="text-editor">
             <state line="3" column="1" selection-start="59" selection-end="59" vertical-scroll-proportion="0.0">
               <folding />
@@ -76,10 +86,46 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="40" selection-start="54" selection-end="54" vertical-scroll-proportion="0.055452865">
+            <state line="2" column="40" selection-start="54" selection-end="54" vertical-scroll-proportion="-1.3076923">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="controller.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/educatricesimona-debattistis/controller.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="26" selection-start="123" selection-end="123" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="controller.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/professionisti-gian-angelo-geminiani/controller.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="26" selection-start="123" selection-end="123" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrapper.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bootstrapper.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="35" column="1" selection-start="1125" selection-end="1125" vertical-scroll-proportion="0.067428574">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="robots.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/robots.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="0" selection-start="91" selection-end="91" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -103,10 +149,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/pages/educatricesimona-debattistis/controller.js" />
-        <option value="$PROJECT_DIR$/pages/educatricesimona-debattistis/model.json" />
-        <option value="$PROJECT_DIR$/templates/basic/basic.css" />
-        <option value="$PROJECT_DIR$/templates/pinky/pinky.html" />
         <option value="$PROJECT_DIR$/templates/pinky/pinky.css" />
         <option value="$PROJECT_DIR$/templates/basic/basic.js" />
         <option value="$PROJECT_DIR$/templates/pinky/pinky.js" />
@@ -119,14 +161,17 @@
         <option value="$PROJECT_DIR$/pages/educatricesimona-debattistis/index.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/pages/educatricesimona-debattistis/controller.js" />
+        <option value="$PROJECT_DIR$/pages/professionisti-gian-angelo-geminiani/controller.js" />
+        <option value="$PROJECT_DIR$/bootstrapper.js" />
+        <option value="$PROJECT_DIR$/humans.txt" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="112" />
-    <option name="y" value="91" />
-    <option name="width" value="1119" />
-    <option name="height" value="893" />
+    <option name="x" value="62" />
+    <option name="width" value="1385" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -154,7 +199,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -170,6 +214,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="profiles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="profiles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="profiles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="person" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -258,22 +320,8 @@
               <option name="myItemId" value="assets" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="profiles" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="profiles" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
+              <option name="myItemId" value="lib" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -288,15 +336,12 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -309,18 +354,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\angelo.geminiani.ALBINIEFONTANOT\Dropbox\PROGETTI\SITES\profiles" />
       <recent name="C:\Users\angelo.geminiani.ALBINIEFONTANOT\Dropbox\PROGETTI\SITES\profiles\templates\_stub" />
       <recent name="C:\Users\angelo.geminiani.ALBINIEFONTANOT\Dropbox\PROGETTI\SITES\profiles\templates\pinky" />
       <recent name="C:\Users\angelo.geminiani.ALBINIEFONTANOT\Dropbox\PROGETTI\SITES\profiles\pages\educatricesimona-debattistis" />
       <recent name="C:\Users\angelo.geminiani.ALBINIEFONTANOT\Dropbox\PROGETTI\SITES\profiles\pages\professionisti-gian-angelo-geminiani" />
-      <recent name="C:\Users\angelo.geminiani.ALBINIEFONTANOT\Dropbox\PROGETTI\SITES\profiles\pages\professionisti-gian-angelo-geminiani\img\portfolio" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\angelo.geminiani.ALBINIEFONTANOT\Dropbox\PROGETTI\SITES\profiles\templates\profiles" />
       <recent name="C:\Users\angelo.geminiani.ALBINIEFONTANOT\Dropbox\PROGETTI\SITES\profiles\assets\img" />
       <recent name="$PROJECT_DIR$/pages/professionisti-gian-angelo-geminiani/img/portfolio" />
       <recent name="$PROJECT_DIR$/assets/img" />
       <recent name="C:\Users\angelo.geminiani.ALBINIEFONTANOT\Dropbox\PROGETTI\SITES\profiles\assets\lib\metroui\images" />
-      <recent name="C:\Users\angelo.geminiani.ALBINIEFONTANOT\Dropbox\PROGETTI\SITES\profiles\components\accordion\img" />
     </key>
   </component>
   <component name="RunManager">
@@ -441,13 +486,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="112" y="91" width="1119" height="893" extended-state="0" />
+    <frame x="62" y="0" width="1385" height="1080" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1883871" sideWeight="0.99791884" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1875" sideWeight="0.99791884" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32934782" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4275" sideWeight="0.993361" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.40875912" sideWeight="0.8116129" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33803862" sideWeight="0.5725" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -456,7 +502,6 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2078346" sideWeight="0.993361" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32934782" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -527,39 +572,7 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/templates/pinky/pinky.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="11" selection-start="105" selection-end="105" vertical-scroll-proportion="0.20877193" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/basic/basic.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="11" selection-start="105" selection-end="105" vertical-scroll-proportion="0.20877193" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/professionisti-gian-angelo-geminiani/model_en.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="344" column="9" selection-start="10188" selection-end="10524" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/_stub/template.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="25" selection-start="25" selection-end="25" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/basic/basic.link">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="88" selection-start="145" selection-end="331" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/_stub/template.link">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="298" vertical-scroll-proportion="-0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/basic/basic.script">
+    <entry file="file://$PROJECT_DIR$/templates/person/basic/basic.script">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="81" selection-start="0" selection-end="150" vertical-scroll-proportion="0.0" />
       </provider>
@@ -569,12 +582,12 @@
         <state line="8" column="3" selection-start="265" selection-end="265" vertical-scroll-proportion="0.19456366" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/basic/basic.html">
+    <entry file="file://$PROJECT_DIR$/templates/person/basic/basic.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="6" selection-start="16" selection-end="202" vertical-scroll-proportion="0.16527778" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/basic/basic.css">
+    <entry file="file://$PROJECT_DIR$/templates/person/basic/basic.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="1" selection-start="59" selection-end="59" vertical-scroll-proportion="0.0">
           <folding />
@@ -607,7 +620,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="40" selection-start="54" selection-end="54" vertical-scroll-proportion="0.055452865">
+        <state line="2" column="40" selection-start="54" selection-end="54" vertical-scroll-proportion="-1.3076923">
           <folding />
         </state>
       </provider>
@@ -615,6 +628,48 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="66" selection-start="187" selection-end="187" vertical-scroll-proportion="0.21402878" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/educatricesimona-debattistis/controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="26" selection-start="123" selection-end="123" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/professionisti-gian-angelo-geminiani/controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="26" selection-start="123" selection-end="123" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/professionisti-gian-angelo-geminiani/model_en.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="344" column="9" selection-start="10188" selection-end="10524" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/robots.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="91" selection-end="91" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/humans.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="26" selection-start="240" selection-end="240" vertical-scroll-proportion="0.136">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrapper.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="1" selection-start="1125" selection-end="1125" vertical-scroll-proportion="0.067428574">
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>

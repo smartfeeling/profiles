@@ -33,21 +33,23 @@
 
     function _load(template, target, callback) {
         var self = this;
+        var temp_path = template;
+        var temp_name = _.last(template.split('/'));
         var timestamp = '?timestamp=' + new Date(); // avoid ajax cache
-        var path_template = '../../templates/' + template + '/' + template + '.html' + timestamp;
-        var path_links = '../../templates/' + template + '/' + template + '.link' + timestamp;
-        var path_scripts = '../../templates/' + template + '/' + template + '.script' + timestamp;
-        var path_script = '../../templates/' + template + '/' + template + '.js' + timestamp;
-        var path_css = '../../templates/' + template + '/' + template + '.css' + timestamp;
+        var path_template = '../../templates/' + temp_path + '/' + temp_name + '.html' + timestamp;
+        var path_links = '../../templates/' + temp_path + '/' + temp_name + '.link' + timestamp;
+        var path_scripts = '../../templates/' + temp_path + '/' + temp_name + '.script' + timestamp;
+        var path_script = '../../templates/' + temp_path + '/' + temp_name + '.js' + timestamp;
+        var path_css = '../../templates/' + temp_path + '/' + temp_name + '.css' + timestamp;
         // load template files
         _.bind(_appendLinks, self)(path_links, $(target), function () {
             _.bind(_appendScripts, self)(path_scripts, $(target), function () {
                 _.bind(_appendCss, self)(path_css, $(target), function () {
-                    $.get(path_template, function (template) {
-                        if (!!template) {
+                    $.get(path_template, function (template_html) {
+                        if (!!template_html) {
                             _.bind(_getModel)(function (model) {
                                 if (!!model) {
-                                    _.bind(_appendHtml, self)($(target), template, model, function () {
+                                    _.bind(_appendHtml, self)($(target), template_html, model, function () {
                                         $.get(path_script, function (template_script) {
                                             // evaluate template script
                                             if (!!template_script) {
