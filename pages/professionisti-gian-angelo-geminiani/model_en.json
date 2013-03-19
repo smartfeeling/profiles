@@ -1,6 +1,6 @@
 {
     "id":"professionisti-gian-angelo-geminiani",
-    "title":"Gian Angelo Geminiani",
+    "title":"Curriculum",
     "subtitle":"&lt;Developer/&gt;",
     "name":"Gian Angelo",
     "surname":"Geminiani",
@@ -19,12 +19,14 @@
     "contacts":[
         {
             "name":"Email",
+            "title":"Send Email",
             "description":"Click on this box to send me an email.",
             "url":"mailto:angelo.geminiani@gmail.com",
             "image":"../../assets/lib/metroui/images/mail.png"
         },
         {
             "name":"Phone Call",
+            "title":"Call Angelo",
             "description":"Click on this box to Call Me.",
             "url":"tel:+393477857785",
             "image":"../../assets/lib/metroui/images/phone.png"

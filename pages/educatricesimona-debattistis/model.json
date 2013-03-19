@@ -18,12 +18,14 @@
     "contacts":[
         {
             "name":"Email",
+            "title":"Invia Email",
             "description":"Clicca su questo box per mandarmi una email.",
             "url":"mailto:simonadebattistis@gmail.com",
             "image":"../../assets/lib/metroui/images/mail.png"
         },
         {
             "name":"Telefono",
+            "title":"Chiama Simona",
             "description":"Clicca su questo box per chiamarmi.",
             "url":"tel:+393394769640",
             "image":"../../assets/lib/metroui/images/phone.png"

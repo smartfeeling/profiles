@@ -3,7 +3,7 @@
     //-- load page --//
     app.Bootstrapper.load({
         callback: init,
-        template: "person/basic",
+        template: "person/flatui/basic",
         profile_id:"professionisti-gian-angelo-geminiani"
     });
 
