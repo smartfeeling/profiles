@@ -1,6 +1,7 @@
 body {
     margin: 0!important;
     padding: 0!important;
+    background: #d9d9d9;
 }
 
 a {
@@ -9,6 +10,7 @@ a {
 
 .page {
     padding-left: 5px;
+    padding-right: 5px;
 }
 
 .title {
@@ -28,7 +30,364 @@ a {
     max-width: 100px;
 }
 
-.section {
-    margin: 0px 20px 0px 0px;
+/*
+ *
+ *  COLORS
+ *
+ */
+.fg-color-blue {
+    color: #2d89ef !important;
+}
+.fg-color-blueLight {
+    color: #eff4ff !important;
+}
+.fg-color-blueDark {
+    color: #2b5797 !important;
+}
+.fg-color-green {
+    color: #00a300 !important;
+}
+.fg-color-greenLight {
+    color: #99b433 !important;
+}
+.fg-color-greenDark {
+    color: #1e7145 !important;
+}
+.fg-color-red {
+    color: #b91d47 !important;
+}
+.fg-color-yellow {
+    color: #ffc40d !important;
+}
+.fg-color-orange {
+    color: #e3a21a !important;
+}
+.fg-color-orangeDark {
+    color: #da532c !important;
+}
+.fg-color-pink {
+    color: #9f00a7 !important;
+}
+.fg-color-pinkDark {
+    color: #7e3878 !important;
+}
+.fg-color-purple {
+    color: #603cba !important;
+}
+.fg-color-darken {
+    color: #1d1d1d !important;
+}
+.fg-color-lighten {
+    color: #d5e7ec !important;
+}
+.fg-color-white {
+    color: #ffffff !important;
+}
+.fg-color-grayDark {
+    color: #525252 !important;
+}
+.bg-color-blue {
+    background-color: #2d89ef !important;
+}
+.bg-color-blueLight {
+    background-color: #eff4ff !important;
+}
+.bg-color-blueDark {
+    background-color: #2b5797 !important;
+}
+.bg-color-green {
+    background-color: #00a300 !important;
+}
+.bg-color-greenLight {
+    background-color: #99b433 !important;
+}
+.bg-color-greenDark {
+    background-color: #1e7145 !important;
+}
+.bg-color-red {
+    background-color: #b91d47 !important;
+}
+.bg-color-yellow {
+    background-color: #ffc40d !important;
+}
+.bg-color-orange {
+    background-color: #e3a21a !important;
+}
+.bg-color-orangeDark {
+    background-color: #da532c !important;
+}
+.bg-color-pink {
+    background-color: #9f00a7 !important;
+}
+.bg-color-pinkDark {
+    background-color: #7e3878 !important;
+}
+.bg-color-purple {
+    background-color: #603cba !important;
+}
+.bg-color-darken {
+    background-color: #1d1d1d !important;
+}
+.bg-color-lighten {
+    background-color: #d5e7ec !important;
+}
+.bg-color-white {
+    background-color: #ffffff !important;
+}
+.bg-color-grayDark {
+    background-color: #525252 !important;
+}
+[class*=border-color] {
+    border: 2px solid;
+}
+.border-color-blue {
+    border-color: #2d89ef !important;
+}
+.border-color-blueLight {
+    border-color: #eff4ff !important;
+}
+.border-color-blueDark {
+    border-color: #2b5797 !important;
+}
+.border-color-green {
+    border-color: #00a300 !important;
+}
+.border-color-greenLight {
+    border-color: #99b433 !important;
+}
+.border-color-greenDark {
+    border-color: #1e7145 !important;
+}
+.border-color-red {
+    border-color: #b91d47 !important;
+}
+.border-color-yellow {
+    border-color: #ffc40d !important;
+}
+.border-color-orange {
+    border-color: #e3a21a !important;
+}
+.border-color-orangeDark {
+    border-color: #da532c !important;
+}
+.border-color-pink {
+    border-color: #9f00a7 !important;
+}
+.border-color-pinkDark {
+    border-color: #7e3878 !important;
+}
+.border-color-purple {
+    border-color: #603cba !important;
+}
+.border-color-darken {
+    border-color: #1d1d1d !important;
+}
+.border-color-lighten {
+    border-color: #d5e7ec !important;
+}
+.border-color-white {
+    border-color: #ffffff !important;
+}
+.border-color-grayDark {
+    border-color: #525252 !important;
+}
+*:hover[class=outline-color] {
+    outline: 3px solid;
+}
+.outline-color-blue {
+    outline-color: #2d89ef !important;
+}
+.outline-color-blueLight {
+    outline-color: #eff4ff !important;
+}
+.outline-color-blueDark {
+    outline-color: #2b5797 !important;
+}
+.outline-color-green {
+    outline-color: #00a300 !important;
+}
+.outline-color-greenLight {
+    outline-color: #99b433 !important;
+}
+.outline-color-greenDark {
+    outline-color: #1e7145 !important;
+}
+.outline-color-red {
+    outline-color: #b91d47 !important;
+}
+.outline-color-yellow {
+    outline-color: #ffc40d !important;
+}
+.outline-color-orange {
+    outline-color: #e3a21a !important;
+}
+.outline-color-orangeDark {
+    outline-color: #da532c !important;
+}
+.outline-color-pink {
+    outline-color: #9f00a7 !important;
+}
+.outline-color-pinkDark {
+    outline-color: #7e3878 !important;
+}
+.outline-color-purple {
+    outline-color: #603cba !important;
+}
+.outline-color-darken {
+    outline-color: #1d1d1d !important;
+}
+.outline-color-lighten {
+    outline-color: #d5e7ec !important;
+}
+.outline-color-white {
+    outline-color: #ffffff !important;
+}
+.outline-color-grayDark {
+    outline-color: #525252 !important;
+}
+
+/*
+ *          NOTICES
+ */
+.notices {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.notices  > div,
+.notices  > li,
+.notices  > span,
+.notices  > a {
+    width: 100%;
+    height: 90px;
+    display: block;
+    overflow: hidden;
+    position: relative;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+.notices  > div .notice-header,
+.notices  > li .notice-header,
+.notices  > span .notice-header,
+.notices  > a .notice-header,
+.notices  > div .header,
+.notices  > li .header,
+.notices  > span .header,
+.notices  > a .header {
+    position: relative;
+    background: transparent;
+    font-family: 'Segoe UI Light', 'Open Sans', Verdana, Arial, Helvetica, sans-serif;
+    font-weight: 200;
+    font-size: 20pt;
+    letter-spacing: 0.01em;
+    line-height: 24pt;
+    font-smooth: always;
+    font-size: 12pt;
+    margin-top: 5px;
+    margin-left: 10px;
+}
+.notices  > div .notice-text,
+.notices  > li .notice-text,
+.notices  > span .notice-text,
+.notices  > a .notice-text,
+.notices  > div .text,
+.notices  > li .text,
+.notices  > span .text,
+.notices  > a .text {
+    position: relative;
+    margin-right: 50px;
+    margin-left: 10px;
+    color: #fff;
+    font-family: 'Segoe UI', 'Open Sans', Verdana, Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    font-size: 8pt;
+    font-smooth: always;
+    margin-top: -5px;
+    line-height: 16px;
+}
+.notices  > div .notice-icon,
+.notices  > li .notice-icon,
+.notices  > span .notice-icon,
+.notices  > a .notice-icon,
+.notices  > div .icon,
+.notices  > li .icon,
+.notices  > span .icon,
+.notices  > a .icon {
+    position: absolute;
+    right: 10px;
+    bottom: 5px;
+}
+.notices  > div .notice-icon img,
+.notices  > li .notice-icon img,
+.notices  > span .notice-icon img,
+.notices  > a .notice-icon img,
+.notices  > div .icon img,
+.notices  > li .icon img,
+.notices  > span .icon img,
+.notices  > a .icon img {
+    width: 32px;
+    height: 32px;
+}
+.notices  > div .notice-image,
+.notices  > li .notice-image,
+.notices  > span .notice-image,
+.notices  > a .notice-image,
+.notices  > div .image,
+.notices  > li .image,
+.notices  > span .image,
+.notices  > a .image {
+    max-height: 48px;
+    width: 48px;
+    height: 48px;
+    margin: 20px 20px 20px 20px;
+    float: left;
+}
+.notices  > div .notice-image img,
+.notices  > li .notice-image img,
+.notices  > span .notice-image img,
+.notices  > a .notice-image img,
+.notices  > div .image img,
+.notices  > li .image img,
+.notices  > span .image img,
+.notices  > a .image img {
+    width: 48px;
+    height: 48px;
+}
+.notices  > div .close,
+.notices  > li .close,
+.notices  > span .close,
+.notices  > a .close {
+    z-index: 2;
+    position: absolute;
+    top: 5px;
+    right: 10px;
+    cursor: pointer;
+    font-weight: bold;
+    text-decoration: none;
+    color: #fff !important;
+}
+.notices  > div .close::before,
+.notices  > li .close::before,
+.notices  > span .close::before,
+.notices  > a .close::before {
+    content: "\00d7";
+    color: #fff !important;
+}
+.notices  > div .image-large,
+.notices  > li .image-large,
+.notices  > span .image-large,
+.notices  > a .image-large {
+    width: 88px;
+    height: 88px;
+    margin: 1px 10px 1px 1px;
+    overflow: hidden;
+    float: left;
+}
+.notices  > div .image-large img,
+.notices  > li .image-large img,
+.notices  > span .image-large img,
+.notices  > a .image-large img {
+    width: 88px;
+    height: 88px;
 }
 

@@ -18,6 +18,8 @@
             heightStyle: "content"
         });
 
+        $('.carousel').carousel('pause');
+
         ly.call(callback);
     }
 
@@ -72,7 +74,9 @@
     }
 
     function _createSkillAccordion(accordion) {
-        var tpl = '<h3 ' + (accordion.selected ? 'aria-selected="true"' : 'aria-selected="false"') + '> ' +
+        var selected = false; // accordion.selected
+        var html_selected = 'aria-selected="false"'; // (selected ? 'aria-selected="true"' : 'aria-selected="false"')
+        var tpl = '<h3 ' + html_selected + '> ' +
             '{title}</h3> ' +
             '<div>{description}</div>';
         return ly.template(tpl, accordion);
@@ -111,7 +115,7 @@
                         title: title,
                         content: _createPortfolioItems(data_array)
                     };
-                    ac_html += _createPortfolio(ac_item);
+                    ac_html += _createPortfolio(ac_item, data_array.length);
                 }
             });
             $parent.append(ac_html);
@@ -122,37 +126,47 @@
     }
 
     function _createPortfolioItems(items) {
-        var tpl = '<div id="{id}" class="slide image bg-color-grayDark">' +
-            '<img src="{image}"/>' +
-            '<div class="description">' +
-            '<div class="notices">' +
-            '<div class="bg-color-grayDark">' +
-            '<div class="notice-icon"><a href="{url}"><img style="height: 32px;width: 32px;" src="../../assets/img/link.png"/></a></div>' +
-            '<div class="notice-image"><img class="photo" src="{image}"/></div>' +
-            '<div class="notice-header fg-color-lighten">{name}</div>' +
-            '<div class="notice-text">{description}</div>' +
+        var tpl = '<div class="item {active}">' +
+            '<img src="{image}" alt="">' + //<a href="{url}"></a>
+            '<div class="carousel-caption row-fluid">' +
+            '<div class="span10">' +
+            '<h4>{name}</h4>' +
+            '<p>{description}</p>' +
             '</div>' +
+            '<div class="span2">' +
+            '<a class="btn btn-info btn-large" href="{url}">Link</a>' +
             '</div>' +
             '</div>' +
             '</div>';
         var html = '';
         if (_.isArray(items)) {
-            _.forEach(items, function (item) {
+            _.forEach(items, function (item, index) {
                 item.id = _.uniqueId('slide_');
+                item.active = index === 0 ? 'active' : '';
                 html += ly.template(tpl, item);
             });
         }
+
         return html;
     }
 
 
-    function _createPortfolio(item) {
-        var tpl = '<h3>{title}</h3>' +
-            '<div  class="carousel" data-role="carousel" style="height: 300px; max-width: 400px; margin: auto;">' +
-            '<div class="slides">{content}</div>' +
-            '<span class="control right">›</span>' +
-            '<span class="control left">‹</span>' +
+    function _createPortfolio(item, count) {
+        item.id = item.id || _.uniqueId('');
+        var tpl = '<h4>{title}</h4>';
+        tpl += '<div id="{id}" class="carousel slide">';
+        // indicators
+        tpl += '<ol class="carousel-indicators">';
+        for (var i = 0; i < count; i++) {
+            tpl += '<li data-target="#{id}" data-slide-to="' + i + '" class="' + (i === 0 ? 'active' : '') + '"></li>';
+        }
+        tpl += '</ol>';
+        // content and arrows
+        tpl += '<div class="carousel-inner">{content}</div>' +
+            '<a class="left carousel-control" href="#{id}" data-slide="prev">‹</a>' +
+            '<a class="right carousel-control" href="#{id}" data-slide="next">›</a>' +
             '</div>';
+
         return ly.template(tpl, item);
     }
 
@@ -185,10 +199,10 @@
     }
 
     function _createLinkItems(items) {
-        var tpl = '<div id="{id}" class="notices">' +
+        var tpl = '<div id="{id}" class="notices" style="cursor: pointer">' +
             '<div class="bg-color-lighten">' +
-            '<div class="notice-icon"><a href="{url}"><img style="height: 32px;" src="../../assets/img/link.png"/></a></div>' +
-            '<div class="notice-image"><img class="photo" src="{image}"/></div>' +
+            '<div class="notice-icon"></div>' +
+            '<div class="notice-image"><a href="{url}"><img class="photo" src="{image}"/></a></div>' +
             '<div class="notice-header fg-color-darken">{name}</div>' +
             '<div class="notice-text fg-color-blueDark">{description}</div>' +
             '</div>' +
@@ -198,6 +212,10 @@
             _.forEach(items, function (item) {
                 item.id = _.uniqueId('link_');
                 html += ly.template(tpl, item);
+                $('#links').delegate('#' + item.id, 'click', function(){
+                    location.href = item.url;
+                    console.log(item.url);
+                });
             });
         }
         return html;
@@ -236,7 +254,7 @@
     }
 
     function _createContactItems(items) {
-        var tpl = '<div id="{id}" data-item="{url}" class="notices">' +
+        var tpl = '<div id="{id}" data-item="{url}" class="notices" style="cursor: pointer">' +
             '<div class="bg-color-orange">' +
             '<div class="notice-icon"><img style="height: 32px;" src="{image}"/></div>' +
             '<div class="notice-image"><img class="photo" src="{image}"/></div>' +
