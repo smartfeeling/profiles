@@ -4,7 +4,7 @@
     <list default="true" id="229ab944-fc3a-4d1e-bf1e-58fd276307c5" name="Default" comment="" />
     <ignored path="profiles.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="229ab944-fc3a-4d1e-bf1e-58fd276307c5" time="1364205076780" ignored="false" />
+    <file path="/Dummy.txt" changelist="229ab944-fc3a-4d1e-bf1e-58fd276307c5" time="1365764118255" ignored="false" />
     <file path="/template.js" changelist="229ab944-fc3a-4d1e-bf1e-58fd276307c5" time="1362669288012" ignored="false" />
     <file path="/template.css" changelist="229ab944-fc3a-4d1e-bf1e-58fd276307c5" time="1362669414306" ignored="false" />
     <file path="/template.html" changelist="229ab944-fc3a-4d1e-bf1e-58fd276307c5" time="1362669764220" ignored="false" />
@@ -40,34 +40,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="basic.script" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/person/flatui/basic/basic.script">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="69" selection-start="373" selection-end="373" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="basic.link" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/person/flatui/basic/basic.link">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="5" selection-start="325" selection-end="325" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="basic.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/person/flatui/basic/basic.js">
           <provider selected="true" editor-type-id="text-editor">
             <state line="204" column="52" selection-start="7007" selection-end="7007" vertical-scroll-proportion="0.0">
               <folding>
-                <marker date="1363785987055" expanded="true" signature="2576:2628" placeholder="..." />
-                <marker date="1363785987055" expanded="false" signature="2739:2769" placeholder="..." />
-                <marker date="1363785987055" expanded="true" signature="6839:6854" placeholder="..." />
-                <marker date="1363785987055" expanded="true" signature="8882:8897" placeholder="..." />
-                <marker date="1363785987055" expanded="false" signature="8999:9012" placeholder="..." />
+                <marker date="1363785987000" expanded="false" signature="2576:2628" placeholder="..." />
+                <marker date="1363785987000" expanded="false" signature="2739:2769" placeholder="..." />
+                <marker date="1363785987000" expanded="false" signature="6839:6854" placeholder="..." />
+                <marker date="1363785987000" expanded="false" signature="8882:8897" placeholder="..." />
+                <marker date="1363785987000" expanded="false" signature="8999:9012" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -76,7 +58,7 @@
       <file leaf-file-name="basic.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/person/flatui/basic/basic.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="86" column="31" selection-start="2667" selection-end="2667" vertical-scroll-proportion="0.0">
+            <state line="86" column="31" selection-start="2667" selection-end="2667" vertical-scroll-proportion="-53.75">
               <folding />
             </state>
           </provider>
@@ -100,10 +82,46 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="basic.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="basic.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/person/flatui/basic/basic.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="23" selection-start="81" selection-end="81" vertical-scroll-proportion="0.020757021">
+            <state line="3" column="23" selection-start="81" selection-end="81" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="controller.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/professionisti-gian-angelo-geminiani/controller.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="7" selection-start="203" selection-end="203" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pages/professionisti-gian-angelo-geminiani/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="60" selection-start="289" selection-end="289" vertical-scroll-proportion="0.07594936">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="basic.link" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/person/flatui/basic/basic.link">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="5" selection-start="325" selection-end="325" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="basic.script" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/person/flatui/basic/basic.script">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="69" selection-start="373" selection-end="373" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -147,10 +165,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="88" />
-    <option name="y" value="14" />
+    <option name="x" value="633" />
+    <option name="y" value="25" />
     <option name="width" value="1195" />
-    <option name="height" value="1003" />
+    <option name="height" value="983" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -186,6 +204,106 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="profiles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="profiles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="profiles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="profiles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="person" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="profiles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="profiles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="person" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flatui" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="basic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="profiles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="profiles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="profiles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="profiles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="professionisti-gian-angelo-geminiani" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="profiles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="profiles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -197,8 +315,8 @@
     <property name="options.lastSelected" value="http.proxy" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Apps/So-Near/node" />
     <property name="FullScreen" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -346,13 +464,13 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="88" y="14" width="1195" height="1003" extended-state="0" />
-    <editor active="false" />
+    <frame x="633" y="25" width="1195" height="983" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1875" sideWeight="0.99791884" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32934782" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31141868" sideWeight="0.9974874" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3105802" sideWeight="0.9974874" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -466,18 +584,6 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/professionisti-gian-angelo-geminiani/controller.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="7" selection-start="203" selection-end="203" vertical-scroll-proportion="0.16951567" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/person/flatui/basic/basic.link">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="5" selection-start="325" selection-end="325" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/lib/flatui/css/flat-ui.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2017" column="16" selection-start="45833" selection-end="45833" vertical-scroll-proportion="-12.96" />
@@ -488,6 +594,18 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.3846154" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/lib/metroui/css/modern.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1958" column="1" selection-start="29261" selection-end="33405" vertical-scroll-proportion="-11.12" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/person/flatui/basic/basic.link">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="5" selection-start="325" selection-end="325" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/templates/person/flatui/basic/basic.script">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="69" selection-start="373" selection-end="373" vertical-scroll-proportion="0.0">
@@ -495,39 +613,43 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/professionisti-gian-angelo-geminiani/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="60" selection-start="289" selection-end="289" vertical-scroll-proportion="0.08596713" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/lib/metroui/css/modern.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1958" column="1" selection-start="29261" selection-end="33405" vertical-scroll-proportion="-11.12" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/person/flatui/basic/basic.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="204" column="52" selection-start="7007" selection-end="7007" vertical-scroll-proportion="0.0">
           <folding>
-            <marker date="1363785987055" expanded="true" signature="2576:2628" placeholder="..." />
-            <marker date="1363785987055" expanded="false" signature="2739:2769" placeholder="..." />
-            <marker date="1363785987055" expanded="true" signature="6839:6854" placeholder="..." />
-            <marker date="1363785987055" expanded="true" signature="8882:8897" placeholder="..." />
-            <marker date="1363785987055" expanded="false" signature="8999:9012" placeholder="..." />
+            <marker date="1363785987000" expanded="false" signature="2576:2628" placeholder="..." />
+            <marker date="1363785987000" expanded="false" signature="2739:2769" placeholder="..." />
+            <marker date="1363785987000" expanded="false" signature="6839:6854" placeholder="..." />
+            <marker date="1363785987000" expanded="false" signature="8882:8897" placeholder="..." />
+            <marker date="1363785987000" expanded="false" signature="8999:9012" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/person/flatui/basic/basic.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="86" column="31" selection-start="2667" selection-end="2667" vertical-scroll-proportion="0.0">
+        <state line="86" column="31" selection-start="2667" selection-end="2667" vertical-scroll-proportion="-53.75">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/person/flatui/basic/basic.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="23" selection-start="81" selection-end="81" vertical-scroll-proportion="0.020757021">
+        <state line="3" column="23" selection-start="81" selection-end="81" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/professionisti-gian-angelo-geminiani/controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="7" selection-start="203" selection-end="203" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/professionisti-gian-angelo-geminiani/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="60" selection-start="289" selection-end="289" vertical-scroll-proportion="0.07594936">
           <folding />
         </state>
       </provider>
