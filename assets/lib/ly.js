@@ -248,6 +248,7 @@
         } catch (err) {
             ly.console.error(err);
         }
+        return false;
     }
 
     function hasText(text) {
